@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/phoneId"
+        android:icon="@drawable/ic_phone_black_24dp"
+        android:title="Phone"
+
+        />
+
+    <item
+        android:id="@+id/homeId"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+
+        />
+    <item
+        android:id="@+id/inboxId"
+        android:icon="@drawable/ic_move_to_inbox_black_24dp"
+        android:title="Inbox"
+
+        />
+    <item
+        android:id="@+id/locationId"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:title="Location"
+
+        />
+
+
+</menu>

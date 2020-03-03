@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/settingsId"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Settings"
+
+        />
+
+    <item
+        android:id="@+id/shareId"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share"
+
+        />
+
+    <item
+        android:id="@+id/logoutId"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        android:title="Logout"
+
+        />
+
+
+
+
+    <item
+        android:title="Submenu"
+        >
+
+<menu>
+    <item
+        android:title="Menu2"
+        android:icon="@drawable/ic_move_to_inbox_black_24dp"/>
+
+
+    <item
+        android:title="Menu2"
+        android:icon="@drawable/ic_move_to_inbox_black_24dp"/>
+
+</menu>
+
+    </item>
+
+
+</menu>
